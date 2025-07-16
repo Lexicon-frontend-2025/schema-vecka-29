@@ -43,4 +43,4 @@ Efter denna vecka ska du:
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-15-juli)** (Maja) - **Repetition och LS**
 * **[\Onsdag\]** (Maja) - **Handledning** 
 * **[\Torsdag\]** (Maja) - **Handledning** 
-* **\[Fredag\]** (Maja) - **Code Review:** Code review i slumpade grupper.
+* **[\Fredag\]** (Maja) - **Code Review:** Code review i slumpade grupper.
