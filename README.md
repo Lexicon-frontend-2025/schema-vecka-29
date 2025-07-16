@@ -7,7 +7,7 @@
 ## 🎯 Mål för veckan
 
 Efter denna vecka ska du:
-1.  Ha påbörjat arbetet med det större **"Bucket List"-projektet**.
+1.  Ha gjort klart arbetet med det större **"Bucket List"-projektet**.
 
 ## 📚 Material
 
