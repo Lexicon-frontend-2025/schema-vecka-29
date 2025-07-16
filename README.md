@@ -7,7 +7,8 @@
 ## 🎯 Mål för veckan
 
 Efter denna vecka ska du:
-1.  Ha gjort klart arbetet med det större **"Bucket List"-projektet**.
+1.  Ha grundläggande förståelse för **Local Storage**.
+2.  Ha gjort klart arbetet med det större **"Bucket List"-projektet**.
 
 ## 📚 Material
 
